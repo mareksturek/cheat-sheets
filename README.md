@@ -11,7 +11,7 @@
     - [Data Engineering](https://github.com/mareksturek/cheat-sheets/blob/main/cheatsheets/04.Data-Engineering.pdf)
     - [SQL](https://github.com/mareksturek/cheat-sheets/blob/main/cheatsheets/05.SQL.pdf)
     - [Python](https://github.com/mareksturek/cheat-sheets/blob/main/cheatsheets/06.Python.pdf)
-    - [R](https://github.com/mareksturek/cheat-sheets/blob/main/cheatsheets/07.R.pdf)
+    - [R-Language](https://github.com/mareksturek/cheat-sheets/blob/main/cheatsheets/07.R.pdf)
     - [Machine Learning](https://github.com/mareksturek/cheat-sheets/blob/main/cheatsheets/08.Machine-Learning.pdf)
     - [Supervised Learning](https://github.com/mareksturek/cheat-sheets/blob/main/cheatsheets/09.Supervised-Learning.pdf)
     - [Unsupervised Learning](https://github.com/mareksturek/cheat-sheets/blob/main/cheatsheets/10.Unsupervised-Learning.pdf)
